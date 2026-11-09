@@ -1,3 +1,3 @@
 # liverpool-planning-data.github.io
 
-- [liverpool-planning-data](https://liverpool-planning-data.github.io/)
+- [Home](https://liverpool-planning-data.github.io/)
